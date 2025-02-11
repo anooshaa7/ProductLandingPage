@@ -46,7 +46,8 @@
 <div class="thank-you-card">
     <i class="fas fa-check-circle thank-you-icon"></i>
     <h2 class="mt-3">Thank You for Your Subscription!</h2>
-    <p>Your subscription is confirmed! Stay tuned for the latest updates, exclusive offers, and exciting content delivered straight to your inbox.✨</p>
+    <p>Your subscription is confirmed! Stay tuned for the latest updates, exclusive offers, 
+        and exciting content delivered straight to your inbox.✨</p>
     
     <a href="index.php" class="btn btn-custom mt-3">Back to Home</a>
     
